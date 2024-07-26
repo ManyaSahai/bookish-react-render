@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Programming Book",
+        "title": "The Art of Programming: From Beginner to Expert",
+        "price": 0,
+        "category": "Free",
+        "image": "https://i.pinimg.com/564x/80/67/c6/8067c661f3e1550bf8201295c8152dd1.jpg"
+    },
+
+    {
+        "id": 2,
+        "name":  "UI-Design",
+        "title": "Crafting User Interfaces: Principles and Practices for Great UX",
+        "price": 0,
+        "category": "Free",
+        "image": "https://i.pinimg.com/564x/21/6d/23/216d23a73cbebef09f119f4cf3a7f1c1.jpg"
+    },
+   
+    {
+        "id": 3,
+        "name": "Travel Guide",
+        "title": "Exploring the Globe: Top Destinations for Wanderers",
+        "price": 0,
+        "category": "Free",
+        "image": "https://i.pinimg.com/564x/ab/cc/b1/abccb149ca2c9c07421d26aefc82935f.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Cooking",
+        "title": "Culinary Delights: Recipes from Around the World",
+        "price": 0,
+        "category": "Free",
+        "image": "https://i.pinimg.com/564x/11/e5/70/11e570420a65cec301f9fc185ea280bb.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Comics",
+        "title": "WAVES",
+        "price": 0,
+        "category": "Comics",
+        "image": "https://i.pinimg.com/564x/18/af/7c/18af7c3fcadc1e851d39708fa8038c64.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Fictional Book",
+        "title": "The Kite Runner",
+        "price": 0,
+        "category": "Fiction",
+        "image": "https://i.pinimg.com/564x/d7/a6/99/d7a69999d8d3d35b763326e7d2fbbcdf.jpg"
+    }
+]
